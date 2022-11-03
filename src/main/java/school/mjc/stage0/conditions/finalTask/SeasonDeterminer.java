@@ -7,25 +7,25 @@ public class SeasonDeterminer {
             case 1 :
             case 2 :
             case 12 :
-                season = "winter";
+                season = "Winter";
                 System.out.println(season);
                 break;
             case 3 :
             case 4 :
             case 5 :
-                season = "spring";
+                season = "Spring";
                 System.out.println(season);
                 break;
             case 6 :
             case 7 :
             case 8 :
-                season = "summer";
+                season = "Summer";
                 System.out.println(season);
                 break;
             case 9 :
             case 10 :
             case 11 :
-                season = "autumn";
+                season = "Autumn";
                 System.out.println(season);
                 break;
             default:
