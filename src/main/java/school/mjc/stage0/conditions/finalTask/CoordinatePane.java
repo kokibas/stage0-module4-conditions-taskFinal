@@ -11,8 +11,9 @@ public class CoordinatePane {
         } else if (x < 0 && y > 0) {
             System.out.println("fourth");
 
-        }else {
+        }else if (x > 0 && y < 0 ) {
             System.out.println("second");
         }
+
     }
 }
